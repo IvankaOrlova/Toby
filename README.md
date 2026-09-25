@@ -140,8 +140,7 @@
 ## 🔗 Ссылки по проекту
 
 - **Интерактивный прототип (Figma):** https://www.figma.com/make/exk9vtddxKblwDvgoguyQW/Financial-Literacy-App-Prototype
-- 🎥 **Короткая видеозапись демонстрации сценария (ТЗ п. 7.1):**
-
+- **Короткая видеозапись демонстрации сценария (ТЗ п. 7.1):**
 ![Демонстрация прототипа Тоби](https://github.com/IvankaOrlova/Toby/raw/main/hakaton.mov)
 - **Презентация проекта (PDF, для скачивания):** https://github.com/IvankaOrlova/Toby/raw/main/ЛЦТ2026%20Вектор%20кода.pdf
 - **Презентация проекта (PPTX, открывается в браузере):** https://github.com/IvankaOrlova/Toby/raw/main/ЛЦТ2026%20Вектор%20кода.pptx
