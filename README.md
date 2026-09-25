@@ -140,8 +140,8 @@
 ## 🔗 Полезные ссылки
 
 - **Интерактивный прототип (Figma):** https://www.figma.com/make/exk9vtddxKblwDvgoguyQW/Financial-Literacy-App-Prototype
-- **Презентация проекта (PDF, открывается в браузере):** https://github.com/IvankaOrlova/Toby/raw/main/ЛЦТ2026%20Вектор%20кода.pdf
-- **Презентация проекта (PPTX, для скачивания):** https://github.com/IvankaOrlova/Toby/raw/main/ЛЦТ2026%20Вектор%20кода.pptx
+- **Презентация проекта (PDF, для скачивания):** https://github.com/IvankaOrlova/Toby/raw/main/ЛЦТ2026%20Вектор%20кода.pdf
+- **Презентация проекта (PPTX, открывается в браузере):** https://github.com/IvankaOrlova/Toby/raw/main/ЛЦТ2026%20Вектор%20кода.pptx
 - **Методическая основа (Авторская книга):** https://ridero.ru/books/ekonomiya_kak_dukhovnaya_praktika/
 - **Авторская графика (Комиксы):** https://mortem.tilda.ws/comics
 - **Личный репозиторий капитана:** https://github.com/IvankaOrlova/Toby
