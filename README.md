@@ -137,7 +137,7 @@
 
 ---
 
-## 🔗 Полезные ссылки
+## 🔗 Ссылки по проекту
 
 - **Интерактивный прототип (Figma):** https://www.figma.com/make/exk9vtddxKblwDvgoguyQW/Financial-Literacy-App-Prototype
 - **Презентация проекта (PDF, для скачивания):** https://github.com/IvankaOrlova/Toby/raw/main/ЛЦТ2026%20Вектор%20кода.pdf
